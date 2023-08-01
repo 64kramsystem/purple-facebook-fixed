@@ -1,4 +1,7 @@
-Tarball extract of the Purple Facebook.
+Installable tarball extract of the Purple Facebook, with the following fixes:
+
+- Fix ERROR_QUEUE_OVERFLOW
+- Build: update.sh: Fix pidgin repository link
 
 Original description:
 
