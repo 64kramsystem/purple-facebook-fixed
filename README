@@ -1,4 +1,11 @@
-Tarball extract of the Purple Facebook.
+Installable tarball extract of the Purple Facebook, with the following fixes:
+
+- Fix ERROR_QUEUE_OVERFLOW
+- Build: update.sh: Fix pidgin repository link
+
+In order to build the project, follow the [instructions](https://github.com/dequis/purple-facebook/wiki/Building-on-*NIX) in the upstream wiki.
+
+It's possible to build software packages by using [checkinstall](https://en.wikipedia.org/wiki/CheckInstall): with the program installed, build the project as usual, then run `sudo checkinstall`.
 
 Original description:
 
