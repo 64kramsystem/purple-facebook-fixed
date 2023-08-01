@@ -2,7 +2,7 @@
 
 set -e
 
-URL="https://keep.imfreedom.org/pidgin/pidgin"
+URL="https://bitbucket.org/pidgin/main"
 HASHG=$(_TMP_=$(type hg 2>&1); echo $?)
 
 if test "$HASHG" != "0"; then
